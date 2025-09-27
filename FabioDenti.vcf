@@ -1,0 +1,10 @@
+BEGIN:VCARD
+N:Denti;Fabio;;;
+FN:Fabio Denti
+ORG:OroEtic Monza
+TEL;TYPE=CELL:+39 324 6839166
+EMAIL;TYPE=INTERNET: admin@alkemissrl.it
+URL:https://www.oroetic.it
+ADR;TYPE=WORK:;;Via Azzone Visconti 33;Monza;MB;20900;Italia
+PHOTO;TYPE=JPEG;VALUE=URI:https://drive.google.com/drive/u/3/folders/1eD0n430zNg38GLDByCJtJWbX0Oo0AHdO
+END:VCARD
